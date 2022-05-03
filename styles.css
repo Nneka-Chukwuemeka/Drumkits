@@ -44,3 +44,7 @@ kbd {
   letter-spacing: 0.1rem;
   color: #ffc600;
 }
+.key:hover {
+  cursor: pointer;
+  border: 0.2rem solid gray;
+}
