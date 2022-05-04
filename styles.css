@@ -48,3 +48,9 @@ kbd {
   cursor: pointer;
   border: 0.2rem solid gray;
 }
+
+@media screen and (max-width: 600px) {
+  .keys {
+    flex-direction: column;
+  }
+}
